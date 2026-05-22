@@ -1,5 +1,7 @@
 # Network Pharmacology Analysis of *Ginkgo biloba* as a Natural Anti-Alzheimer Agent
 
+>this repository is used as a complete tools and procedure guide as well as the comprehensive amount of data that were not able to be explained in the report and poster
+
 ## Tools
 - **KnapSack** (www.knapsackfamily.com/knapsack_core/top.php): Natural Compound Database
 - **SwissADME** (www.swissadme.ch/): Analyze gastrointestinal (GI) absorption, Blood Brain Barrier (BBB) permeability, Lipinski validation, and bioavailability score
