@@ -17,7 +17,8 @@
 ### Alzheimer Target Genes Prediction and Venn Diagram Construction
 1. Open OMIM and input "*Alzheimer's disease*" and set the confidence score to high confidence (0.700)
 2. Open Gene Map Table and download the genes as an Excel file
-3. 
+3. The genes are then separated through Power Query Editor to be split by comma
+4. The gene and locus column are saved
 ### Compound-Target Network Construction
 1. Open Cytoscape > import network from file system > import the file consisting of the intersect target genes and compounds
 2. The compounds column is set as the source node and the target genes compound is set as the target nodes
